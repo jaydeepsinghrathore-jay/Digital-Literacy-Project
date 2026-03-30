@@ -1,7 +1,7 @@
-##social media etiquette checklist
+# social media etiquette checklist
 
 
-The Do’s
+## The Do’s
 
 Check your privacy: Make sure your "private" posts are actually private and not open to the whole world.
 
@@ -13,7 +13,7 @@ Fact-check first: Don't share fake news or rumors. Make sure what you’re posti
 
 Connect with alumni: Follow people who have the jobs you want—it’s a great way to find internships.
 
-The Don’ts
+## The Don’ts
 
 Don't post illegal stuff: Avoid photos of drinking, drugs, or anything that could get you in trouble with your college.
 
