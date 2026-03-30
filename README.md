@@ -28,34 +28,34 @@ All tasks are documented here with screenshots, files, and written reflections. 
 ```
 digital-literacy-project/
 │
-├── README.md                          ← You are here
+├── README.md                           You are here
 │
 ├── report/
-│   └── Project_Report.pdf             ← Full written project report
+│   └── Project_Report.pdf              Full written project report
 │
 ├── task-1-presentation/
-│   ├── infographic.png                ← Exported digital literacy infographic
-│   └── description.md                 ← Tool used, design overview, reflection
+│   ├── infographic.png                 Exported digital literacy infographic
+│                   
 │
 ├── task-2-portfolio/
-│   ├── github-profile.png             ← Screenshot of GitHub profile/README
-│   ├── linkedin-profile.png           ← Screenshot of LinkedIn education section
-│   ├── kaggle-profile.png             ← Screenshot of Kaggle profile
-│   └── reflection.md                  ← Platform purpose and future plans
+│   ├── github.png                       Screenshot of GitHub profile
+│   ├── linkedin.png                     Screenshot of LinkedIn profile
+│   ├── kaggle.png                       Screenshot of Kaggle profile
+│                   
 │
 ├── task-3-platforms/
-│   ├── hackerrank-challenge.png        ← Completed HackerRank challenge screenshot
-│   ├── google-form-screenshot.png      ← Digital Literacy Quiz (form view)
-│   ├── google-sheet-screenshot.png     ← Linked response sheet view
-│   └── reflection.md                  ← Tools used and academic value
+│   ├── hackerrankchallenge.png          Completed HackerRank challenge screenshot
+│   ├── googleform.png                   Digital Literacy Quiz (form view)
+│   ├── googlesheet.png                  Linked excel sheet view
+│   └── responses.png                    responses view
 │
 ├── task-4-email-etiquette/
-│   ├── email-drafts.pdf               ← Two professional email drafts
-│   └── social-media-checklist.md      ← Do's and Don'ts for responsible social media use
+│   ├── emaildrafts.pdf                  Two professional email drafts
+│   └── socialmedia-checklist.md         Do's and Don'ts for responsible social media use
 │
 └── task-5-cybercrime/
-    ├── casestudy.md                   ← Cybercrime case study (Phishing / UPI Fraud etc.)
-    └── prevention-checklist.md        ← 'Stay Safe Online' checklist for college students
+    ├── casestudy.md                     Cybercrime case study (Phishing)
+    └── prevention-checklist.md          'Stay Safe Online' checklist for college students
 ```
 
 ---
