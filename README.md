@@ -62,29 +62,27 @@ digital-literacy-project/
 
 ## 📋 Module Summaries
 
-### ✅ Task 1 – Digital Literacy Awareness Infographic *(Module 1 | 20 marks)*
-Created a one-page visual infographic using **[Tool Name – e.g., Canva]** covering topics such as what digital literacy is, safe internet practices, and professional online presence. The infographic is designed to help batchmates quickly understand key digital concepts.
+### ✅ Task 1 – Digital Literacy Awareness Infographic 
+Created a one-page visual infographic using **[Tool Name - Canva]** covering topics such as what digital literacy is, safe internet practices, and professional online presence. The infographic is designed to help batchmates quickly understand key digital concepts.
 
-🔗 [View Infographic Online](https://your-canva-link-here.com) *(replace with your actual link)*
 
----
-
-### ✅ Task 2 – Student Digital Portfolio *(Module 2 | 20 marks)*
-Set up professional profiles on three platforms:
-
-| Platform | Profile Link | Purpose |
-|----------|-------------|---------|
-| **GitHub** | [github.com/yourusername](https://github.com/yourusername) | Code hosting & portfolio |
-| **LinkedIn** | [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) | Professional networking |
-| **Kaggle** | [kaggle.com/yourusername](https://kaggle.com/yourusername) | Data science & competitions |
 
 ---
 
-### ✅ Task 3 – Coding & Collaboration Platforms *(Module 3 | 20 marks)*
-- Completed a beginner challenge on **HackerRank** (e.g., *Solve Me First*)
+### ✅ Task 2 – Student Digital Portfolio 
+
+
+* GitHub |  | Code hosting & portfolio |
+* LinkedIn |(www.linkedin.com/in/jaydeep-singh-rathore-453b27235)| Professional networking |
+* Kaggle | username: jaydeepsingh10 | Data science & competitions |
+
+---
+
+### ✅ Task 3 – Coding & Collaboration Platforms 
+- Completed a challenge on **HackerRank** 
 - Built a **Digital Literacy Awareness Quiz** using Google Forms with 5 questions (including MCQ and short answer types)
 
-🔗 [Take the Digital Literacy Quiz](https://forms.google.com/your-form-link-here) *(replace with actual link)*
+🔗 [Take the Digital Literacy Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfMKoxAmNGrshcOduONFjFN2zs__1pOT3nq60U3NOVg30kkrA/viewform?usp=publish-editor)
 
 ---
 
@@ -95,7 +93,7 @@ Set up professional profiles on three platforms:
 ---
 
 ### ✅ Task 5 – Cybercrime Awareness Case Study *(Module 5 | 20 marks)*
-- Researched and wrote a **200–250 word case study** on [Phishing / UPI Fraud / Identity Theft – *choose your topic*]
+- Researched and wrote a **200–250 word case study** on [Phishing]
 - Created a **'Stay Safe Online' checklist** with 8+ prevention tips, including UPI safety and reporting resources (cybercrime.gov.in | Helpline: **1930**)
 
 ---
