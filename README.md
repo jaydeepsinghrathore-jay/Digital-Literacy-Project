@@ -6,11 +6,11 @@
 ## 👤 Student Details
 
 
-**Name**  JAYDEEP SINGH RATHORE 
- **Registration No.**  25BCE11117 
- **Branch**  B.Tech – CSE (CORE) 
- **Year**  First Year 
- **Course Code**  CSE0001 – Digital Literacy 
+Name JAYDEEP SINGH RATHORE 
+Registration No.  25BCE11117 
+Branch  B.Tech – CSE (CORE) 
+Year  First Year 
+Course Code  CSE0001 – Digital Literacy 
  
 
 ---
