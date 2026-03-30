@@ -20,7 +20,7 @@
 
 # How to Report a Crime
 
-## If you lose money or are being harassed online, don't be afraid to speak up. The government has dedicated tools to help you:
+If you lose money or are being harassed online, don't be afraid to speak up. The government has dedicated tools to help you:
 
 * Call the Helpline: Dial 1930 immediately to report financial fraud.
 
