@@ -23,43 +23,6 @@ All tasks are documented here with screenshots, files, and written reflections. 
 
 ---
 
-## 📁 Repository Structure
-
-```
-digital-literacy-project/
-│
-├── README.md                           You are here
-│
-├── report/
-│   └── Project_Report.pdf              Full written project report
-│
-├── task-1-presentation/
-│   ├── infographic.png                 Exported digital literacy infographic
-│                   
-│
-├── task-2-portfolio/
-│   ├── github.png                       Screenshot of GitHub profile
-│   ├── linkedin.png                     Screenshot of LinkedIn profile
-│   ├── kaggle.png                       Screenshot of Kaggle profile
-│                   
-│
-├── task-3-platforms/
-│   ├── hackerrankchallenge.png          Completed HackerRank challenge screenshot
-│   ├── googleform.png                   Digital Literacy Quiz (form view)
-│   ├── googlesheet.png                  Linked excel sheet view
-│   └── responses.png                    responses view
-│
-├── task-4-email-etiquette/
-│   ├── emaildrafts.pdf                  Two professional email drafts
-│   └── socialmedia-checklist.md         Do's and Don'ts for responsible social media use
-│
-└── task-5-cybercrime/
-    ├── casestudy.md                     Cybercrime case study (Phishing)
-    └── prevention-checklist.md          'Stay Safe Online' checklist for college students
-```
-
----
-
 ## 📋 Module Summaries
 
 ### ✅ Task 1 – Digital Literacy Awareness Infographic 
