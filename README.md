@@ -5,8 +5,7 @@
 
 ## 👤 Student Details
 
-| Field | Details |
-|-------|---------|
+
 | **Name** | Your Full Name |
 | **Registration No.** | XX-XXXXX |
 | **Branch** | B.Tech – CSE (Change as applicable) |
