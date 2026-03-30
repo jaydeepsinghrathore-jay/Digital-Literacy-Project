@@ -72,9 +72,9 @@ Created a one-page visual infographic using **[Tool Name - Canva]** covering top
 ### ✅ Task 2 – Student Digital Portfolio 
 
 
-* GitHub |  | Code hosting & portfolio |
+* GitHub |(https://github.com/jaydeepsinghrathore-jay)| Code hosting & portfolio |
 * LinkedIn |(www.linkedin.com/in/jaydeep-singh-rathore-453b27235)| Professional networking |
-* Kaggle | username: jaydeepsingh10 | Data science & competitions |
+* Kaggle |(https://www.kaggle.com/jaydeepsingh10) | Data science & competitions |
 
 ---
 
@@ -109,10 +109,5 @@ Created a one-page visual infographic using **[Tool Name - Canva]** covering top
 
 ---
 
-## 🛡️ Academic Integrity
-
-All written reflections and content in this repository are my own original work. External sources, tools, and platforms used have been cited in the project report. Screenshots are from my own accounts only.
-
----
 
 *Submitted for CSE0001 – Digital Literacy | VIT Bhopal University*
