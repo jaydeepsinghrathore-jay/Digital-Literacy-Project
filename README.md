@@ -86,13 +86,13 @@ Created a one-page visual infographic using **[Tool Name - Canva]** covering top
 
 ---
 
-### ✅ Task 4 – Professional Email & Etiquette Guide *(Module 4 | 20 marks)*
+### ✅ Task 4 – Professional Email & Etiquette Guide 
 - Drafted two professional emails: one requesting an assignment deadline extension, and one expressing interest in a summer internship
 - Created a **Social Media Do's and Don'ts checklist** with 5 Do's and 5 Don'ts for college students
 
 ---
 
-### ✅ Task 5 – Cybercrime Awareness Case Study *(Module 5 | 20 marks)*
+### ✅ Task 5 – Cybercrime Awareness Case Study 
 - Researched and wrote a **200–250 word case study** on [Phishing]
 - Created a **'Stay Safe Online' checklist** with 8+ prevention tips, including UPI safety and reporting resources (cybercrime.gov.in | Helpline: **1930**)
 
