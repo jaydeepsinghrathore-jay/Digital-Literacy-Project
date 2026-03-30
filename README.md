@@ -100,14 +100,12 @@ Created a one-page visual infographic using **[Tool Name - Canva]** covering top
 
 ## 🔗 Quick Links
 
-| Resource | Link |
-|----------|------|
-| 📄 Project Report | [`report/Project_Report.pdf`](./report/Project_Report.pdf) |
-| 🎨 Infographic (Task 1) | [`task-1-presentation/`](./task-1-presentation/) |
-| 👤 Portfolio Screenshots (Task 2) | [`task-2-portfolio/`](./task-2-portfolio/) |
-| 💻 Platform Screenshots (Task 3) | [`task-3-platforms/`](./task-3-platforms/) |
-| 📧 Email Drafts & Checklist (Task 4) | [`task-4-email-etiquette/`](./task-4-email-etiquette/) |
-| 🔐 Cybercrime Case Study (Task 5) | [`task-5-cybercrime/`](./task-5-cybercrime/) |
+* Project Report | [`report/Project_Report.pdf`](./report/Project_Report.pdf) |
+* Infographic (Task 1) | [`task-1-presentation/`](./task-1-presentation/) |
+* Portfolio Screenshots (Task 2) | [`task-2-portfolio/`](./task-2-portfolio/) |
+* Platform Screenshots (Task 3) | [`task-3-platforms/`](./task-3-platforms/) |
+* Email Drafts & Checklist (Task 4) | [`task-4-email-etiquette/`](./task-4-email-etiquette/) |
+* Cybercrime Case Study (Task 5) | [`task-5-cybercrime/`](./task-5-cybercrime/) |
 
 ---
 
