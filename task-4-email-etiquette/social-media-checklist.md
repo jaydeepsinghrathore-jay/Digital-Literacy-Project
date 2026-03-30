@@ -1,5 +1,5 @@
 # Social Media Etiquette Checklist
-*Prepared by Arush Singh - Student Digital Ambassador*
+*Prepared by Jaydeep Singh Rathore - Student Digital Ambassador*
 
 
 ## The Do’s
