@@ -1,4 +1,4 @@
-# social media etiquette checklist
+# Social Media Etiquette Checklist
 
 
 ## The Do’s
